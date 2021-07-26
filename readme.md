@@ -5,10 +5,13 @@
 - [Course Introduction][intro_pdf]
 - [Lecture 1][L1pdf]
 - [Lecture 1 video][L1vid]
-
+- [Lecture 2][L2pdf]
+- [Lecture 2 video][L2vid]
 
 [intro_pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Intro.pdf
 
 [L1pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_1.pdf
-
 [L1vid]:https://youtu.be/xcnJoxDzeJg
+
+[L2pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_2.pdf
+[L2vid]:https://youtu.be/SSdvT4lNsyY
