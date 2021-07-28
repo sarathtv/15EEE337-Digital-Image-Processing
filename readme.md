@@ -19,5 +19,5 @@
 [L2pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_2.pdf
 [L2vid]:https://youtu.be/SSdvT4lNsyY
 
-[L3pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_2.pdf
+[L3pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_3.pdf
 [L3vid]:https://youtu.be/VpihgMtAM50
