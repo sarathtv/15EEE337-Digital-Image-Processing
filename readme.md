@@ -12,6 +12,7 @@
 - [Lecture 3-2][L3-2pdf]
 - [Lecture 3-2 video][L3-2vid]
 - [Lecture 3 Code][L3_code]
+
 [intro_pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Intro.pdf
 
 [L1pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_1.pdf
