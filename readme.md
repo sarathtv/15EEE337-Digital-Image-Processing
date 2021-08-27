@@ -41,3 +41,16 @@
 [L5pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_5.pdf
 [L5_code]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/tree/main/Additional%20Materials/L5_codes
 [L5vid]:https://youtu.be/8fqHxwplfaM
+
+[L6pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_6.pdf
+[L6_code]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/tree/main/Additional%20Materials/L6_codes
+[L6vid]:https://youtu.be/OfOFUFY_138
+
+
+[L7pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_7.pdf
+[L7_code]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/tree/main/Additional%20Materials/L7_codes
+[L7vid]:https://youtu.be/nXcbSeYi-QM
+
+[L8pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_8.pdf
+[L8_code]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/tree/main/Additional%20Materials/L8_codes
+[L8vid]:https://youtu.be/qM2KuWFT204
