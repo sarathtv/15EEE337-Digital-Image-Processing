@@ -30,7 +30,7 @@
 - [Lecture 9][L9pdf]
 - [Lecture 9 video][L9vid]
 - [Lecture 9 Code][L9_code]
-- [Lecture 10][[L10pdf]]
+- [Lecture 10][L10pdf]
 - [Lecture 10 video][L10vid]
 - [Lecture 11 video][L11vid]
 
