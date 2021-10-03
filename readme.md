@@ -33,6 +33,7 @@
 - [Lecture 10][L10pdf]
 - [Lecture 10 video][L10vid]
 - [Lecture 11 video][L11vid]
+- [Lecture 10-11 Code][L10-11 code]
 
 [intro_pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Intro.pdf
 
@@ -80,3 +81,4 @@
 
 
 [L11vid]:https://youtu.be/vFkls8ZKcgg
+[L10-11 code]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/tree/main/Additional%20Materials/L10-11_codes
