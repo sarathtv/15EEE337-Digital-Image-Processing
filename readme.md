@@ -30,6 +30,9 @@
 - [Lecture 9][L9pdf]
 - [Lecture 9 video][L9vid]
 - [Lecture 9 Code][L9_code]
+- [Lecture 10][[L10pdf]]
+- [Lecture 10 video][L10vid]
+- [Lecture 11 video][L11vid]
 
 [intro_pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Intro.pdf
 
@@ -71,3 +74,9 @@
 [L9pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_9.pdf
 [L9vid]:https://youtu.be/oZOXotbx4f4
 [L9_code]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/tree/main/Additional%20Materials/L9_codes
+
+[L10pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_10.pdf
+[L10vid]:https://youtu.be/LzZXTlOHOcY
+
+
+[L11vid]:https://youtu.be/vFkls8ZKcgg
