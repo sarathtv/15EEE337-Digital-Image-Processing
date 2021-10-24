@@ -91,4 +91,4 @@
 [L12vid-1]:https://youtu.be/RVEoowTrfrY
 [L12vid-2]:https://youtu.be/UWtEi6QXFC8
 [L12pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_12.pdf
-[L12code]:
+[L12code]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/tree/main/Additional%20Materials/L12_code
