@@ -38,7 +38,7 @@
 - [Lecture 12][L12pdf]
 - [Lecture 12 video][L12vid-1]
 - [Lecture 12 video][L12vid-2]
-- [Lecture 12 Code][L12 code]
+- [Lecture 12 Code][L12code]
 
 [intro_pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Intro.pdf
 
