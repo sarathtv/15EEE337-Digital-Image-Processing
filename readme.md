@@ -39,6 +39,12 @@
 - [Lecture 12 video 1][L12vid-1]
 - [Lecture 12 video 2][L12vid-2]
 - [Lecture 12 Code][L12code]
+- [Lecture 13][L13pdf]
+- [Lecture 13 video][L13vid]
+- [Lecture 14][L14pdf]
+- [Lecture 14 video ][L14vid]
+- [Lecture 15][L15pdf]
+- [Lecture 15 video][L15vid]
 
 [intro_pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Intro.pdf
 
@@ -92,3 +98,13 @@
 [L12vid-2]:https://youtu.be/UWtEi6QXFC8
 [L12pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_12.pdf
 [L12code]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/tree/main/Additional%20Materials/L12_code
+
+
+[L13pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_13.pdf
+[L13vid]:https://youtu.be/BL_Og_U2VQY
+[L14pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_14.pdf
+[L14vid]:https://youtu.be/UD9hQCF3m4U
+[L15pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_15.pdf
+[L15vid]:https://youtu.be/9T2QyYsyfrI
+[L16pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_16.pdf
+[L16vid]:https://youtu.be/uM7txpit_sI
