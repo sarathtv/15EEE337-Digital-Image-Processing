@@ -45,6 +45,8 @@
 - [Lecture 14 video ][L14vid]
 - [Lecture 15][L15pdf]
 - [Lecture 15 video][L15vid]
+- [Lecture 16][L16pdf]
+- [Lecture 16 video][L16vid]
 
 [intro_pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Intro.pdf
 
