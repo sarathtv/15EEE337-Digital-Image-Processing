@@ -47,6 +47,12 @@
 - [Lecture 15 video][L15vid]
 - [Lecture 16][L16pdf]
 - [Lecture 16 video][L16vid]
+- [Lecture 17][L17pdf]
+- [Lecture 17 video][L17vid]
+- [Lecture 18][L18pdf]
+- [Lecture 18 video-1][L18vid]
+- [Lecture 18 video-2][L18vid2]
+- [Thank you note][L19vid]
 
 [intro_pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Intro.pdf
 
@@ -110,3 +116,10 @@
 [L15vid]:https://youtu.be/9T2QyYsyfrI
 [L16pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_16.pdf
 [L16vid]:https://youtu.be/uM7txpit_sI
+
+[L17pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_17.pdf
+[L17vid]:https://youtu.be/__gZvrmhIPc
+[L18pdf]:https://github.com/sarathtv/15EEE337-Digital-Image-Processing/blob/main/Lectures/15EEE337_Lec_18.pdf
+[L18vid]:https://youtu.be/ojZeqlP2NmA
+[L18vid2]:https://youtu.be/5c3JcEOptXQ
+[L19vid]:https://youtu.be/jD54biyAR2c
